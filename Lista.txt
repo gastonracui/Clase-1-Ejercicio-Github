@@ -1,4 +1,4 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Medina, Diego (xxxxxx) -> Usuario Github: diegomedina248
 ----------------------------------------
 
@@ -12,7 +12,7 @@ Cabrera Costa, Fernando Guzmán (91321) --> Usuario Github:
 Coelho Gonzalez, Santiago (204113) --> Usuario Github:
 Comesaña Vidal, Martín (183579) --> Usuario Github:
 Damiani Gianoli, Nicolás (192489) --> Usuario Github:
-De León Díaz, Rodrigo Matías (176311) --> Usuario Github:
+De León Díaz, Rodrigo Matías (176311) --> Usuario Github: r-deleon
 Della Cella Mac Cormack, Andres Mario (193949) --> Usuario Github:
 Duarte Katcher, Rodrigo (217374) --> Usuario Github:
 Erlich Velázquez, Maximiliano (143216) --> Usuario Github:
